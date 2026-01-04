@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ana Paula Duarte
 
-Sou **Engenheira de Software Back-end (PCD)**, com foco em **microsserviços**, **APIs REST** e **arquiteturas distribuídas** em **cloud AWS**. Experiência prática em **mensageria**, **eventos**, **CI/CD** e **modernização de sistemas**, atuando em **times ágeis** e **ambientes de alta escala e disponibilidade**.
+**Engenheira de Software Back-end Júnior (PCD)**, com foco em **microsserviços**, **APIs REST** e **arquiteturas distribuídas** em **cloud AWS**. Experiência prática em **mensageria**, **eventos**, **CI/CD** e **modernização de sistemas**, atuando em **times ágeis** e **ambientes de alta escala e disponibilidade**.
 
 ---
 

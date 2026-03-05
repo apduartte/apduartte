@@ -1,15 +1,3 @@
-A estrutura do seu perfil está **boa**, mas para **atrair recrutadores técnicos e sistemas de triagem (ATS)** é necessário:
-
-* aumentar **densidade de palavras-chave técnicas**
-* melhorar **clareza de impacto**
-* reduzir frases genéricas
-* reforçar **Java + Backend + APIs + Cloud + Arquitetura**
-
-Também corrigi erros de digitação e organizei para **leitura rápida por recrutadores**.
-
-Abaixo está uma **versão reescrita em padrão profissional de engenharia**, adequada para README de perfil.
-
----
 
 # 👩‍💻 Ana Paula Luciano Duarte
 

@@ -5,7 +5,7 @@
 
 ---
 📍 São Paulo – SP – Brasil  
-📧 apduartte@uol.com.br  
+📧 apduartte@gmail.com
 🌐 Portfolio: https://apduartte.github.io
 
 ---

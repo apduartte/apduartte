@@ -31,15 +31,13 @@ Atualmente concentro meus estudos e projetos em **backend com Java, arquitetura 
 
 ## Backend Development
 
-* Java (8 / 17)
-* Programação Orientada a Objetos (Encapsulamento, Herança, Polimorfismo, Abstração)
-* APIs REST
-* JPA / ORM
-* Hibernate
-* Arquitetura de Software
-* Integração de Sistemas
-* Conceitos de Microsserviços
-
+- Java (8 / 17)
+- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism, Abstraction)
+- REST APIs
+- JPA / Hibernate
+- Software Architecture
+- Systems Integration
+- Microservices Concepts
 ---
 
 ## Cloud & Infrastructure

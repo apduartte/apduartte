@@ -66,3 +66,11 @@ Jan/2022 – Jun/2025
 
 🔗 Em breve: https://apduartte.github.io/
 
+
+#
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apduartte&layout=compact)# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apduartte&show_icons=true&theme=default)
+
+## Top Languages
+

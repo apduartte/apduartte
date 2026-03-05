@@ -2,6 +2,8 @@
 # 👩‍💻 Ana Paula Luciano Duarte
 
 **Software Engineer | Java Backend Developer | Cloud & APIs**
+
+---
 📍 São Paulo – SP – Brasil  
 📧 apduartte@uol.com.br  
 🌐 Portfolio: https://apduartte.github.io

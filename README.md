@@ -70,7 +70,7 @@ Interested in **distributed systems, scalable backend architectures, and cloud-n
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apduartte\&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apduartte\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apduartte&show_icons=true&theme=default)
 
 ---
 

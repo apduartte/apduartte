@@ -1,76 +1,145 @@
-# 👩‍💻 Ana Paula Luciano Duarte  
-**Desenvolvedora Java Júnior | Engenheira de Software**
+A estrutura do seu perfil está **boa**, mas para **atrair recrutadores técnicos e sistemas de triagem (ATS)** é necessário:
 
-📍 São Paulo – SP  
+* aumentar **densidade de palavras-chave técnicas**
+* melhorar **clareza de impacto**
+* reduzir frases genéricas
+* reforçar **Java + Backend + APIs + Cloud + Arquitetura**
+
+Também corrigi erros de digitação e organizei para **leitura rápida por recrutadores**.
+
+Abaixo está uma **versão reescrita em padrão profissional de engenharia**, adequada para README de perfil.
+
+---
+
+# 👩‍💻 Ana Paula Luciano Duarte
+
+**Software Engineer | Java Backend Developer | Cloud & APIs**
+📍 São Paulo – SP – Brasil  
 📧 apduartte@uol.com.br  
-🔗 [LinkedIn](https://linkedin.com/in/ana-paula-l-duarte)
+🌐 Portfolio: https://apduartte.github.io
 
 ---
 
-## 🚀 Sobre Mim
+# 🚀 About Me
 
-Engenheira de Software com experiência em desenvolvimento backend, utilizando Java e arquitetura de APIs. Possuo experiência na construção e manutenção de sistemas corporativos, aplicando princípios de programação orientada a objetos e boas práticas em engenharia de softawe.
+Engenheira de Software com experiência no desenvolvimento e manutenção de aplicações **backend em Java**, atuando na construção de **APIs REST, integração de sistemas e persistência de dados em bancos relacionais**.
 
-Tenho interesse em sistemas escaláveis, arquitetura de software e computação em nuvem, buscando constantemente aprimorar minhas habilidades em tecnologias modernas para desenvolvimento de aplicações robustas e de alta disponibilidade.
+Possuo experiência em ambientes corporativos de grande escala, contribuindo para **sustentação, evolução e estabilidade de sistemas críticos**, aplicando **princípios de Programação Orientada a Objetos, boas práticas de engenharia de software e padrões de arquitetura**.
 
-Atualmente concentro meus estudos e projetos em backend Java, arquiterura de sistemas e soluções cloud, com foco na construção de APIs e serviços distribuídos
+Tenho forte interesse em:
 
----
+* **arquitetura de sistemas distribuídos**
+* **computação em nuvem**
+* **engenharia de software escalável**
+* **desenvolvimento de APIs e microsserviços**
 
-## 🛠️ Stack Técnica
-
-### Backend Development
-- Java 8 / 17
-- Programação Orientada a Objetos (POO)
-- JPA (ORM)
-- Hibernate
-- Conceitos de APIs Rest
-- Cloud Computing
-- AWS
-- Arquitetura de Sistemas
-
-### Banco de Dados
-- SQL
-- PostgreSQL
-- Operações CRUD e modelagem de dados
-
-### Ferramentas
-- Git
-- Maven
-- CI/CD (conceitos)
-- Scrum / Kanban
-
----
-#
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apduartte&layout=compact)# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apduartte&show_icons=true&theme=default)
-
-## Top Languages
-
-## 💼 Experiência
-
-### Itaú Unibanco  
-**Engenheira de Software Júnior**  
-Jan/2022 – Jun/2025  
-
-- Desenvolvimento e manutenção de aplicações Java.
-- Persistência com JPA.
-- Consultas SQL em banco relacional.
-- Correção de falhas e sustentação de sistemas críticos.
+Atualmente concentro meus estudos e projetos em **backend com Java, arquitetura de software e soluções cloud**, com foco na construção de **serviços robustos, resilientes e escaláveis**.
 
 ---
 
-## 🎓 Formação
+# 🛠️ Technical Stack
 
-- Pós-graduação em Arquitetura de Software – PUC (2024)  
-- Pós-graduação em Administração – FGV (2023)
+## Backend Development
+
+* Java (8 / 17)
+* Programação Orientada a Objetos (Encapsulamento, Herança, Polimorfismo, Abstração)
+* APIs REST
+* JPA / ORM
+* Hibernate
+* Arquitetura de Software
+* Integração de Sistemas
+* Conceitos de Microsserviços
 
 ---
 
-## 🌐 Portfólio Online
+## Cloud & Infrastructure
 
-🔗 Em breve: https://apduartte.github.io/
+* Cloud Computing
+* Amazon Web Services
+* Conceitos de Arquitetura Cloud
+* Alta disponibilidade e escalabilidade
+
+---
+
+## Databases
+
+* SQL
+* PostgreSQL
+* Modelagem de dados
+* Operações CRUD
+* Otimização básica de consultas
+
+---
+
+## Development Tools
+
+* Git
+* Maven
+* CI/CD (conceitos)
+* Metodologias ágeis (Scrum / Kanban)
+
+---
+
+# 📊 GitHub Analytics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apduartte\&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apduartte\&show_icons=true)
+
+---
+
+# 💼 Professional Experience
+
+## Itaú Unibanco
+
+**Software Engineer (Java Backend)**
+Jan 2022 — Jun 2025
+
+Atuação no desenvolvimento e sustentação de sistemas corporativos de alta criticidade em ambiente bancário.
+
+Principais responsabilidades:
+
+* Desenvolvimento e manutenção de aplicações backend utilizando **Java**
+* Implementação de persistência de dados com **JPA / Hibernate**
+* Desenvolvimento e manutenção de **consultas SQL em bancos relacionais**
+* Investigação e correção de falhas em sistemas produtivos
+* Suporte à estabilidade e evolução de aplicações críticas
+* Participação em processos de melhoria contínua e sustentação de software
+
+---
+
+# 🎓 Education
+
+**Postgraduate – Software Architecture**
+PUC (2024)
+
+**Postgraduate – Business Administration**
+FGV (2023)
+
+---
+
+# 🌐 Portfolio
+
+Projetos e experimentos de engenharia de software focados em **backend, APIs e arquitetura de sistemas**.
+
+🔗 [https://apduartte.github.io/](https://apduartte.github.io/)
+
+---
+
+# 📫 Contact
+
+Estou aberta a oportunidades **remotas ou híbridas** nas áreas de:
+
+* Backend Engineering
+* Java Development
+* Cloud Engineering
+* Software Engineering
+
+LinkedIn:
+[https://linkedin.com/in/ana-paula-l-duarte](https://linkedin.com/in/ana-paula-l-duarte)
+
+---
+
 
 
 

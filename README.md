@@ -1,62 +1,137 @@
-# 👋 Olá, eu sou Ana Paula Duarte
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-**Engenheira de Software Back-end Júnior (PCD)**, com foco em **microsserviços**, **APIs REST** e **arquiteturas distribuídas** em **cloud AWS**. Experiência prática em **mensageria**, **eventos**, **CI/CD** e **modernização de sistemas**, atuando em **times ágeis** e **ambientes de alta escala e disponibilidade**.
+    <!-- SEO Primário -->
+    <title>Ana Paula Duarte | Desenvolvedora Java Júnior | Engenheira de Software</title>
+    <meta name="description" content="Desenvolvedora Java Júnior em São Paulo com experiência em Java 8/17, JPA, SQL, Git e manutenção de sistemas críticos. Foco em aplicações web robustas e alta performance.">
+    <meta name="keywords" content="Desenvolvedora Java Júnior, Engenheira de Software Java, Java São Paulo, Java JPA SQL, Backend Java, JSF JPA Git">
+    <meta name="author" content="Ana Paula Luciano Duarte">
+    <link rel="canonical" href="https://seuusuario.github.io/">
 
----
+    <!-- Open Graph (LinkedIn / WhatsApp) -->
+    <meta property="og:title" content="Ana Paula Duarte | Desenvolvedora Java Júnior">
+    <meta property="og:description" content="Engenheira de Software com experiência em Java, JPA, SQL e sistemas críticos.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://seuusuario.github.io/">
 
-## 💻 Stack & Tecnologias
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ana Paula Luciano Duarte",
+      "jobTitle": "Desenvolvedora Java Júnior",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "São Paulo",
+        "addressRegion": "SP",
+        "addressCountry": "BR"
+      },
+      "email": "apduartte@uol.com.br",
+      "telephone": "+55-11-97016-4186",
+      "url": "https://seuusuario.github.io/",
+      "sameAs": [
+        "https://linkedin.com/in/ana-paula-l-duarte"
+      ],
+      "knowsAbout": [
+        "Java",
+        "JPA",
+        "SQL",
+        "Git",
+        "JSF",
+        "Programação Orientada a Objetos",
+        "Backend Development"
+      ]
+    }
+    </script>
 
-- **Linguagens:** Java, C#, .NET (fundamentos)
-- **Frameworks:** Spring Boot
-- **Back-end:** APIs REST, microsserviços (conceitos)
-- **Cloud:** AWS (EC2, RDS, S3, IAM), Azure (fundamentos)
-- **DevOps:** CI/CD, Git, GitHub
-- **Arquitetura:** Clean Code, SOLID, Arquitetura distribuída
-- **Metodologias:** Scrum, Kanban
-- **Segurança:** LGPD, Segurança da Informação
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 40px;
+            color: #333;
+            line-height: 1.6;
+            max-width: 900px;
+        }
+        h1 { font-size: 28px; margin-bottom: 5px; }
+        h2 { margin-top: 35px; border-bottom: 1px solid #ddd; padding-bottom: 5px; }
+        h3 { margin-top: 20px; }
+        ul { margin-left: 20px; }
+        .contact { font-size: 14px; margin-bottom: 20px; }
+        .highlight { font-weight: bold; }
+    </style>
+</head>
 
----
+<body>
 
-## 🚀 Projetos em Destaque
+    <header>
+        <h1>Ana Paula Luciano Duarte</h1>
+        <p class="contact">
+            São Paulo – SP | Desenvolvedora Java Júnior<br>
+            📞 (11) 97016-4186 | 📧 apduartte@uol.com.br<br>
+            🔗 <a href="https://linkedin.com/in/ana-paula-l-duarte" target="_blank">LinkedIn</a>
+        </p>
+    </header>
 
-🔹 **Portfólio Online**  
-🌐 https://apduartte.com.br  
+    <section>
+        <h2>Sobre</h2>
+        <p>
+            Engenheira de Software com experiência em desenvolvimento e manutenção
+            de aplicações <span class="highlight">Java 8/17</span>,
+            utilizando <span class="highlight">JPA, SQL e Git</span>.
+            Atuação em sistemas de alta disponibilidade e manutenção de aplicações críticas.
+        </p>
+    </section>
 
-🔹 **Foodtech – Fraud Alerts (Back-end)**  
-Projeto de estudo focado em desenvolvimento de **APIs REST**, regras de negócio e arquitetura orientada a eventos.  
-👉 https://github.com/apduartte/foodtech-fraud-alerts  
+    <section>
+        <h2>Competências Técnicas</h2>
 
-🔹 **AWS Practical Projects – RDS SQL Server**  
-Projeto prático em AWS com foco em **Amazon RDS (SQL Server)**, segurança, conectividade e boas práticas em cloud.  
-👉 https://github.com/apduartte/aws-practical-projects/tree/master/rds-sqlserver  
+        <h3>Desenvolvimento Java</h3>
+        <ul>
+            <li>Programação Orientada a Objetos (POO)</li>
+            <li>Java 8 / 17</li>
+            <li>Clean Code e SOLID</li>
+            <li>JSF (conceitos e MVC)</li>
+        </ul>
 
-🔹 **Nextcloud – Projeto de Estudo em Cloud**  
-Projeto pessoal inspirado no Nextcloud, com foco em **arquitetura**, organização de back-end e cloud computing.  
-👉 https://github.com/apduartte/nextcloud  
+        <h3>Persistência e Banco</h3>
+        <ul>
+            <li>JPA (ORM)</li>
+            <li>Hibernate</li>
+            <li>SQL (SELECT, JOIN, GROUP BY)</li>
+            <li>Banco Relacional PostgreSQL</li>
+        </ul>
 
----
+        <h3>Ferramentas</h3>
+        <ul>
+            <li>Git</li>
+            <li>Maven</li>
+            <li>CI/CD (conceitos)</li>
+        </ul>
+    </section>
 
-## 🎓 Formação & Certificações
+    <section>
+        <h2>Experiência Profissional</h2>
+        <h3>Itaú Unibanco</h3>
+        <p><strong>Engenheira de Software Júnior</strong> | Jan/2022 – Jun/2025</p>
+        <ul>
+            <li>Desenvolvimento e manutenção de aplicações Java.</li>
+            <li>Persistência de dados com JPA e consultas SQL.</li>
+            <li>Correção de falhas e manutenção de sistemas legados.</li>
+            <li>Trabalho em equipe utilizando metodologia ágil.</li>
+        </ul>
+    </section>
 
-- Pós-graduação em **Arquitetura de Software, Ciência de Dados e Cybersecurity** – PUC  
-- Pós-graduação em **Administração, Negócios e Marketing** – FGV  
-- **Microsoft Azure Fundamentals (AZ-900)**  
+    <section>
+        <h2>Formação</h2>
+        <ul>
+            <li>Pós-graduação em Arquitetura de Software – PUC (2024)</li>
+            <li>Pós-graduação em Administração – FGV (2023)</li>
+        </ul>
+    </section>
 
----
-
-## ♿ Informação Complementar
-
-**Pessoa com Deficiência (PCD)** — conforme Lei nº 8.213/91.  
-Laudo médico disponível.
-
----
-
-## 📫 Contato
-
-- 🌐 Portfólio: https://apduartte.com.br  
-- 💼 LinkedIn: https://linkedin.com/in/ana-paula-l-duarte  
-- 📧 Email: apduartte@uol.com.br  
-
----
-
-⭐ Obrigada por visitar meu perfil!
+</body>
+</html>

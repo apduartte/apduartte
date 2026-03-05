@@ -1,74 +1,72 @@
-
 # 👩‍💻 Ana Paula Luciano Duarte
 
-**Software Engineer | Java Backend Developer | Cloud & APIs**
+**Software Engineer | Java Backend | APIs | Cloud Architecture**
 
----
-📍 São Paulo – SP – Brasil  
-📧 apduartte@gmail.com
+📍 São Paulo – SP – Brasil
+📧 [apduartte@gmail.com](mailto:apduartte@gmail.com)
 🌐 Portfolio: https://apduartte.github.io
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me | Sobre Mim
 
-Engenheira de Software com experiência no desenvolvimento e manutenção de aplicações **backend em Java**, atuando na construção de **APIs REST, integração de sistemas e persistência de dados em bancos relacionais**.
+🇧🇷 **Português**
 
-Possuo experiência em ambientes corporativos de grande escala, contribuindo para **sustentação, evolução e estabilidade de sistemas críticos**, aplicando **princípios de Programação Orientada a Objetos, boas práticas de engenharia de software e padrões de arquitetura**.
+Engenheira de Software com foco em desenvolvimento **backend utilizando Java**, atuando na construção de **APIs REST, integração de sistemas e persistência de dados em bancos relacionais**.
 
-Tenho forte interesse em:
+Possuo experiência em ambientes corporativos de grande escala, contribuindo para **sustentação, evolução e estabilidade de sistemas críticos**, aplicando princípios de **Programação Orientada a Objetos, arquitetura de software e boas práticas de engenharia**.
 
-* **arquitetura de sistemas distribuídos**
-* **computação em nuvem**
-* **engenharia de software escalável**
-* **desenvolvimento de APIs e microsserviços**
-
-Atualmente concentro meus estudos e projetos em **backend com Java, arquitetura de software e soluções cloud**, com foco na construção de **serviços robustos, resilientes e escaláveis**.
+Tenho interesse em **sistemas distribuídos, arquitetura de software escalável e computação em nuvem**, com foco na construção de **serviços resilientes e de alta disponibilidade**.
 
 ---
 
-# 🛠️ Technical Stack
+🇺🇸 **English**
 
-## Backend Development
+Software Engineer focused on **backend development using Java**, building **REST APIs, system integrations, and data persistence layers**.
 
-- Java (8 / 17)
-- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism, Abstraction)
-- REST APIs
-- JPA / Hibernate
-- Software Architecture
-- Systems Integration
-- Microservices Concepts
+Experience working in **large-scale corporate environments**, contributing to the maintenance and evolution of **mission-critical systems** using **object-oriented design and software engineering best practices**.
+
+Interested in **distributed systems, scalable backend architectures, and cloud-native development**, focusing on building **resilient and high-availability services**.
+
 ---
 
-## Cloud & Infrastructure
+## 🛠️ Tech Stack
+
+### Backend Development
+
+* Java (8 / 17)
+* Object-Oriented Programming
+* REST APIs
+* JPA / Hibernate
+* System Integration
+* Software Architecture
+* Microservices Concepts
+
+### Cloud & Infrastructure
 
 * Cloud Computing
-* Amazon Web Services
-* Conceitos de Arquitetura Cloud
-* Alta disponibilidade e escalabilidade
+* AWS Fundamentals
+* Scalable Cloud Architectures
+* High Availability Concepts
 
----
-
-## Databases
+### Databases
 
 * SQL
 * PostgreSQL
-* Modelagem de dados
-* Operações CRUD
-* Otimização básica de consultas
+* Data Modeling
+* CRUD Operations
+* Basic Query Optimization
 
----
-
-## Development Tools
+### Development Tools
 
 * Git
 * Maven
-* CI/CD (conceitos)
-* Metodologias ágeis (Scrum / Kanban)
+* CI/CD Concepts
+* Agile Methodologies (Scrum / Kanban)
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apduartte\&layout=compact)
 
@@ -76,27 +74,27 @@ Atualmente concentro meus estudos e projetos em **backend com Java, arquitetura 
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
-## Itaú Unibanco
+### Itaú Unibanco
 
 **Software Engineer (Java Backend)**
 Jan 2022 — Jun 2025
 
-Atuação no desenvolvimento e sustentação de sistemas corporativos de alta criticidade em ambiente bancário.
+Worked on development and maintenance of **enterprise banking systems**, contributing to reliability and evolution of critical backend services.
 
-Principais responsabilidades:
+Key activities:
 
-* Desenvolvimento e manutenção de aplicações backend utilizando **Java**
-* Implementação de persistência de dados com **JPA / Hibernate**
-* Desenvolvimento e manutenção de **consultas SQL em bancos relacionais**
-* Investigação e correção de falhas em sistemas produtivos
-* Suporte à estabilidade e evolução de aplicações críticas
-* Participação em processos de melhoria contínua e sustentação de software
+* Backend development using Java
+* Data persistence with JPA / Hibernate
+* SQL queries in relational databases
+* Investigation and resolution of production issues
+* Support for stability and evolution of critical systems
+* Participation in continuous improvement processes
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 **Postgraduate – Software Architecture**
 PUC (2024)
@@ -106,29 +104,21 @@ FGV (2023)
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
-Projetos e experimentos de engenharia de software focados em **backend, APIs e arquitetura de sistemas**.
+Projects focused on **backend engineering, APIs, and system architecture**.
 
-🔗 [https://apduartte.github.io/](https://apduartte.github.io/)
+🔗 https://apduartte.github.io
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-Estou aberta a oportunidades **remotas ou híbridas** nas áreas de:
+Open to opportunities in:
 
 * Backend Engineering
 * Java Development
 * Cloud Engineering
 * Software Engineering
 
-LinkedIn:
-[https://linkedin.com/in/ana-paula-l-duarte](https://linkedin.com/in/ana-paula-l-duarte)
-
----
-
-
-
-
-
+Feel free to reach out.

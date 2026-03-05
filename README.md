@@ -9,25 +9,30 @@
 
 ## 🚀 Sobre Mim
 
-Engenheira de Software com experiência em desenvolvimento e manutenção de aplicações **Java 8/17**, utilizando **JPA, SQL e Git**.
+Engenheira de Software com experiência em desenvolvimento backend, utilizando Java e arquitetura de APIs. Possuo experiência na construção e manutenção de sistemas corporativos, aplicando princípios de programação orientada a objetos e boas práticas em engenharia de softawe.
 
-Atuação em sistemas de alta disponibilidade, manutenção de sistemas legados e sustentação de aplicações críticas.
+Tenho interesse em sistemas escaláveis, arquitetura de software e computação em nuvem, buscando constantemente aprimorar minhas habilidades em tecnologias modernas para desenvolvimento de aplicações robustas e de alta disponibilidade.
+
+Atualmente concentro meus estudos e projetos em backend Java, arquiterura de sistemas e soluções cloud, com foco na construção de APIs e serviços distribuídos
 
 ---
 
 ## 🛠️ Stack Técnica
 
-### Backend
+### Backend Development
 - Java 8 / 17
 - Programação Orientada a Objetos (POO)
 - JPA (ORM)
 - Hibernate
-- JSF (conceitos)
+- Conceitos de APIs Rest
+- Cloud Computing
+- AWS
+- Arquitetura de Sistemas
 
 ### Banco de Dados
 - SQL
 - PostgreSQL
-- SELECT, JOIN, GROUP BY
+- Operações CRUD e modelagem de dados
 
 ### Ferramentas
 - Git

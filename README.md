@@ -59,4 +59,5 @@ Jan/2022 – Jun/2025
 
 ## 🌐 Portfólio Online
 
-🔗 Em breve: https://seuusuario.github.io/
+🔗 Em breve: https://apduartte.github.io/
+

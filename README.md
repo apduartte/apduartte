@@ -1,124 +1,179 @@
-# 👩‍💻 Ana Paula Luciano Duarte
+# 👩‍💻 Ana Duarte
 
-**Software Engineer | Java Backend | APIs | Cloud Architecture**
-
-📍 São Paulo – SP – Brasil
-📧 [apduartte@gmail.com](mailto:apduartte@gmail.com)
-🌐 Portfolio: https://apduartte.github.io
+** Backend Engineer | Java | APIs Escaláveis | Sistemas Distribuídos | AWS | Ex-Itaú **
 
 ---
 
-## 🚀 About Me | Sobre Mim
+## 🚀 Profile
 
-🇧🇷 **Português**
+Backend Engineer focused on building **scalable and resilient systems**, with experience in **high-demand environments**.
 
-Engenheira de Software com foco em desenvolvimento **backend utilizando Java**, atuando na construção de **APIs REST, integração de sistemas e persistência de dados em bancos relacionais**.
+Background in **financial systems (Itaú Unibanco)**, working with **critical applications**, ensuring **performance, reliability, and system stability**.
 
-Possuo experiência em ambientes corporativos de grande escala, contribuindo para **sustentação, evolução e estabilidade de sistemas críticos**, aplicando princípios de **Programação Orientada a Objetos, arquitetura de software e boas práticas de engenharia**.
+Strong interest in:
 
-Tenho interesse em **sistemas distribuídos, arquitetura de software escalável e computação em nuvem**, com foco na construção de **serviços resilientes e de alta disponibilidade**.
+- Distributed systems at scale  
+- High-performance APIs  
+- Event-driven architecture  
+- Cloud-native systems  
 
 ---
 
-🇺🇸 **English**
+## 💼 Experience Highlights
 
-Software Engineer focused on **backend development using Java**, building **REST APIs, system integrations, and data persistence layers**.
+- Worked on mission-critical backend systems handling high transaction volumes  
+- Improved system reliability through production support and incident resolution  
+- Optimized database queries for better performance  
+- Contributed to scalable backend services  
 
-Experience working in **large-scale corporate environments**, contributing to the maintenance and evolution of **mission-critical systems** using **object-oriented design and software engineering best practices**.
+---
 
-Interested in **distributed systems, scalable backend architectures, and cloud-native development**, focusing on building **resilient and high-availability services**.
+## 🧠 Engineering Focus
+
+- Scalable backend architecture  
+- Resilient systems design  
+- Performance optimization  
+- API design and integration  
+
+---
+
+## 🚀 Project – DigiFusion
+
+Cloud-based automation platform designed with scalability in mind:
+
+- Event-driven architecture (AWS)
+- Asynchronous processing (SQS)
+- Infrastructure as Code (Terraform)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend Development
+Java | AWS | Terraform | SQL | Microservices | APIs  
+# 👩‍💻 Ana Duarte
 
-* Java (8 / 17)
-* Object-Oriented Programming
-* REST APIs
-* JPA / Hibernate
-* System Integration
-* Software Architecture
-* Microservices Concepts
-
-### Cloud & Infrastructure
-
-* Cloud Computing
-* AWS Fundamentals
-* Scalable Cloud Architectures
-* High Availability Concepts
-
-### Databases
-
-* SQL
-* PostgreSQL
-* Data Modeling
-* CRUD Operations
-* Basic Query Optimization
-
-### Development Tools
-
-* Git
-* Maven
-* CI/CD Concepts
-* Agile Methodologies (Scrum / Kanban)
+**Backend Engineer | Distributed Systems | High Scale APIs | AWS**
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Profile
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apduartte\&layout=compact)
+Backend Engineer focused on building **scalable and resilient systems**, with experience in **high-demand environments**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apduartte&show_icons=true&theme=default)
+Background in **financial systems (Itaú Unibanco)**, working with **critical applications**, ensuring **performance, reliability, and system stability**.
 
----
+Strong interest in:
 
-## 💼 Professional Experience
-
-### Itaú Unibanco
-
-**Software Engineer (Java Backend)**
-Jan 2022 — Jun 2025
-
-Worked on development and maintenance of **enterprise banking systems**, contributing to reliability and evolution of critical backend services.
-
-Key activities:
-
-* Backend development using Java
-* Data persistence with JPA / Hibernate
-* SQL queries in relational databases
-* Investigation and resolution of production issues
-* Support for stability and evolution of critical systems
-* Participation in continuous improvement processes
+- Distributed systems at scale  
+- High-performance APIs  
+- Event-driven architecture  
+- Cloud-native systems  
 
 ---
 
-## 🎓 Education
+## 💼 Experience Highlights
 
-**Postgraduate – Software Architecture**
-PUC (2024)
-
-**Postgraduate – Business Administration**
-FGV (2023)
-
----
-
-## 🌐 Portfolio
-
-Projects focused on **backend engineering, APIs, and system architecture**.
-
-🔗 https://apduartte.github.io
+- Worked on mission-critical backend systems handling high transaction volumes  
+- Improved system reliability through production support and incident resolution  
+- Optimized database queries for better performance  
+- Contributed to scalable backend services  
 
 ---
 
-## 📫 Contact
+## 🧠 Engineering Focus
 
-Open to opportunities in:
+- Scalable backend architecture  
+- Resilient systems design  
+- Performance optimization  
+- API design and integration  
 
-* Backend Engineering
-* Java Development
-* Cloud Engineering
-* Software Engineering
+---
 
-Feel free to reach out.
+## 🚀 Project – DigiFusion
+
+Cloud-based automation platform designed with scalability in mind:
+
+- Event-driven architecture (AWS)
+- Asynchronous processing (SQS)
+- Infrastructure as Code (Terraform)
+
+---
+
+## 🛠️ Tech Stack
+
+Java | AWS | Terraform | SQL | Microservices | APIs  
+
+# 👩‍💻 Ana Duarte
+
+I build backend systems that need to work — especially when they cannot fail.
+
+---
+
+## 🚀 My Journey
+
+I started my career working on **large-scale banking systems**, where reliability is not optional.
+
+At Itaú Unibanco, I worked on backend services responsible for **critical financial operations**, dealing with:
+
+- production incidents  
+- system stability  
+- performance challenges  
+
+This environment shaped how I think about software:
+
+> Systems must be resilient, scalable, and observable.
+
+---
+
+## 🧠 What I Do
+
+Today, I focus on:
+
+- Designing scalable backend services  
+- Building APIs that handle real-world complexity  
+- Improving system reliability and performance  
+
+---
+
+## ☁️ What I’m Building
+
+I am currently expanding into **cloud-native architectures**, working with:
+
+- AWS  
+- Terraform  
+- Event-driven systems  
+
+---
+
+## 🚀 Featured Project – DigiFusion
+
+A cloud automation platform designed to simulate real-world distributed systems:
+
+- Event-driven architecture  
+- Asynchronous processing  
+- Infrastructure as Code  
+
+---
+
+## 🎯 What I’m Looking For
+
+Opportunities where I can:
+
+- Work on high-scale systems  
+- Solve complex backend challenges  
+- Grow as a software engineer  
+
+---
+
+
+Backend Engineer com experiência em sistemas críticos de alta disponibilidade no Itaú Unibanco.
+
+Atuação com desenvolvimento em Java, APIs REST, integração de sistemas e suporte a ambientes produtivos de grande escala.
+
+Foco em construção de sistemas resilientes, escaláveis e orientados a eventos.
+
+Atualmente aprofundando conhecimentos em AWS, Terraform e arquitetura cloud-native.
+
+Interesse em atuar em empresas com desafios de escala, performance e sistemas distribuídos.
+
+📫 Let’s connect: apduartte@gmail.com  

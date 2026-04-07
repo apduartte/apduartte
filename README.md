@@ -58,7 +58,7 @@ Atuo com **Terraform**, automação de pipelines **CI/CD**, testes funcionais e 
 
 | Backend & Frameworks | Cloud & DevOps | Banco de Dados | Testes & QA | IA & Produtividade | Metodologias Ágeis |
 |--------------------|---------------|----------------|-------------|-----------------|------------------|
-| Java, Kotlin, Spring Boot, Hibernate, Maven, JUnit | AWS, Azure, Kubernetes, Docker, CI/CD, GitHub Actions, Terraform | SQL, PostgreSQL, NoSQL (MongoDB – noções) | Silk, JUnit, Mockito | Microsoft Copilot, ChatGPT | Scrum, Kanban |
+| Java, C#, Spring Boot, Maven, JUnit | AWS, Docker, CI/CD, GitHub, Git Pages, Terraform | SQL, PostgreSQL, NoSQL (MongoDB – noções) | Silk, JUnit, Mockito | Microsoft Copilot, ChatGPT | Scrum, Kanban |
 | Microsserviços, REST, Clean Architecture, DDD, TDD | Monitoramento, alta disponibilidade, automação | Modelagem e otimização de consultas | Testes unitários e funcionais, automação | Aceleração de entregas, documentação e inovação | Colaboração, feedback contínuo |
 
 ---

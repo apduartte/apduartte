@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou Engenheira de Software e DevOps com sólida experiência em **backend Java/Spring Boot**, **APIs RESTful**, **microsserviços** e **sistemas distribuídos em nuvem** (AWS).  
+Sou Engenheira de Software com experiência em **backend Java/Spring Boot**, **APIs RESTful**, **microsserviços** e **sistemas distribuídos em nuvem** (AWS).  
 
 Atuo com **Terraform**, automação de pipelines **CI/CD**, testes funcionais e unitários (**Silk, JUnit, Mockito**) e utilizo **Microsoft Copilot** e **ChatGPT** para acelerar entregas, documentação e inovação contínua.
 

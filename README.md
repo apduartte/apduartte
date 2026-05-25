@@ -1,154 +1,160 @@
-````markdown
-# Ana Paula Duarte  
+# Ana Paula Duarte
 
-📍 São Paulo – SP  
+Cloud & Backend Engineer | AWS | DevOps | Terraform | Java
+
+📍 São Paulo, SP  
 📧 apduartte@gmail.com  
-🌐 Portfólio: https://apduartte.github.io  
+🌐 Portfólio: https://apduartte.github.io
 
 ---
 
-# Objetivo Profissional  
+## Sobre Mim
 
-Atuar como Analista Cloud Júnior com foco em FinOps, Cloud Computing e DevOps, contribuindo com sólida experiência em sistemas críticos, desenvolvimento backend, automação de infraestrutura, observabilidade e operações em ambientes AWS.
+Profissional de tecnologia com experiência em sistemas bancários de missão crítica, desenvolvimento backend e operações em ambientes cloud.
 
----
+Atualmente focada em Cloud Computing, DevOps, FinOps e aplicações escaláveis utilizando AWS, Java e práticas de Infraestrutura como Código (IaC).
 
-# Resumo Profissional  
-
-Profissional com ampla experiência no setor bancário e tecnologia, atuando em sustentação de sistemas críticos, desenvolvimento backend e operações em ambientes cloud.  
-
-Experiência em desenvolvimento de microsserviços com Java e Spring Boot, automação de infraestrutura com Terraform, implementação de pipelines CI/CD e monitoramento de aplicações.  
-
-Vivência em ambientes AWS, suporte a sistemas financeiros de alta disponibilidade e atuação em projetos regulatórios e de transformação digital.  
-
-Perfil analítico, com forte capacidade de troubleshooting, visão operacional e foco em estabilidade, segurança e melhoria contínua.
+Possuo sólida vivência em sustentação de ambientes de alta disponibilidade, troubleshooting de incidentes críticos, automação de processos e iniciativas voltadas à estabilidade, observabilidade e melhoria contínua.
 
 ---
 
-# Competências Técnicas  
+# Stack Tecnológica
 
-## ☁️ Cloud, DevOps & FinOps
+## ☁️ Cloud & DevOps
 - AWS (EC2, S3, IAM, Lambda, RDS, VPC, CloudWatch)
 - Terraform
 - Docker
 - GitHub Actions
 - CI/CD
-- Conceitos de FinOps e otimização de recursos cloud
+- Infraestrutura como Código (IaC)
+- Conceitos de FinOps
 
-## 💻 Desenvolvimento Backend
+## 💻 Backend Engineering
 - Java
 - Spring Boot
-- APIs RESTful
+- APIs REST
 - Microsserviços
 
-## 📊 Observabilidade & Monitoramento
-- Splunk
-- Monitoramento de logs e aplicações
-- Troubleshooting de incidentes críticos
-
 ## 🗄️ Banco de Dados
-- SQL
 - PostgreSQL
 - MySQL
 - MongoDB
+- SQL
 
-## ✅ Testes & Qualidade
+## 📊 Observabilidade & Monitoramento
+- Splunk
+- Monitoramento de aplicações
+- Análise de logs
+- Troubleshooting de incidentes
+
+## ✅ Qualidade & Metodologias
 - JUnit
 - Mockito
-- Silk Test
-
-## 🚀 Metodologias
 - Scrum
 - Kanban
 
 ---
 
-# Experiência Profissional  
+# Projetos em Destaque
 
-## Itaú Unibanco  
+## DigiFusion | AWS Lab
+
+Plataforma cloud native voltada para automação, escalabilidade e resiliência em ambientes AWS.
+
+### Destaques
+- Arquitetura cloud na AWS
+- Automação de infraestrutura
+- Escalabilidade e resiliência
+- Conceitos de cloud native
+
+---
+
+## Microserviço de Alertas de Fraude | AWS Lab
+
+Desenvolvimento de microserviço backend em Java para processamento de alertas utilizando arquitetura assíncrona.
+
+### Stack Utilizada
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+- AWS SQS / DLQ
+
+### Principais Conceitos
+- Microsserviços
+- Processamento assíncrono
+- Resiliência
+- Tolerância a falhas
+
+---
+
+## Projetos Cloud AWS
+
+Implementação prática de aplicações cloud native e arquiteturas serverless utilizando serviços AWS e práticas DevOps.
+
+### Temas Trabalhados
+- Arquitetura Serverless
+- Infraestrutura como Código
+- Observabilidade
+- Pipelines CI/CD
+
+---
+
+# Experiência Profissional
+
+## Itaú Unibanco
 ### Software Engineer Júnior  
-📅 Jan/2022 – Jun/2025 | São Paulo/SP  
+📅 Jan/2022 — Jun/2025
 
-- Desenvolvimento backend utilizando Java, Spring Boot e arquitetura de microsserviços
-- Construção e manutenção de APIs RESTful escaláveis e resilientes
-- Atuação em ambientes AWS com automação de infraestrutura utilizando Terraform
-- Implementação e manutenção de pipelines CI/CD e práticas DevOps
-- Participação em projeto regulatório “Não Me Perturbe”, com desenvolvimento de scripts MySQL, execução de testes funcionais, elaboração de plano de rollback e implantação em produção
-- Suporte à estabilidade e performance de aplicações críticas do ambiente bancário
+- Desenvolvimento backend utilizando Java e Spring Boot
+- Construção e manutenção de APIs REST
+- Desenvolvimento baseado em arquitetura de microsserviços
+- Atuação em ambientes AWS com automação utilizando Terraform
+- Implementação e manutenção de pipelines CI/CD
+- Participação em projetos regulatórios e implantações em produção
+- Suporte à estabilidade e performance de aplicações bancárias
 
 ---
 
-## Itaú Unibanco  
-### Analista de Suporte Técnico/Operacional  
-📅 Jan/2002 – Jan/2022 | São Paulo/SP  
+## Itaú Unibanco
+### Analista de Suporte Técnico / Operacional  
+📅 Jan/2002 — Jan/2022
 
-- Suporte técnico-operacional para sistemas bancários digitais, incluindo Internet Banking, PIX e folha de pagamento
+- Sustentação de sistemas bancários de missão crítica
 - Monitoramento e análise de incidentes utilizando Splunk
-- Gestão de autenticação segura e tokens de acesso
-- Atuação em segurança da informação e estabilidade operacional
-- Atendimento e suporte técnico em ambientes de missão crítica
+- Suporte a Internet Banking e serviços financeiros
+- Gestão de autenticação e acessos seguros
+- Atuação em estabilidade operacional e troubleshooting
 
 ---
 
-## AOL Brasil  
-### Analista de Suporte Técnico  
-📅 Dez/2000 – Jan/2002 | São Paulo/SP  
+## Certificações & Formação
 
-- Suporte técnico em infraestrutura de rede e conectividade
-- Atendimento e resolução de incidentes técnicos relacionados a acesso e comunicação de dados
-
----
-
-## Banco Santander  
-### Controladora de Qualidade Backoffice  
-📅 Jun/1989 – Set/2000 | São Paulo/SP  
-
-- Controle de qualidade e conformidade de processos bancários
-- Análise operacional e acompanhamento de indicadores internos
-
----
-
-# Formação Acadêmica  
-
-🎓 Pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity — PUCPR Digital  
-
-🎓 Pós-graduação em Marketing e Mídias Digitais — FGV  
-
-🎓 Graduação em Administração de Empresas — Universidade Brasil  
-
-🎓 Técnico em Processamento de Dados — Colégio Comercial Brasil  
-
----
-
-# Certificações & Cursos  
-
+### Certificações
 - Microsoft Azure Fundamentals (AZ-900)
 - FinOps Descomplicado
 - Integração Contínua
 - AWS Certified Cloud Practitioner *(em andamento)*
 
----
-
-# Projetos Acadêmicos & Práticos  
-
-## DigiFusion (Lab AWS)
-Plataforma de automação em nuvem com foco em escalabilidade, resiliência e arquitetura cloud native.
-
-## Alertas de Fraude Foodtech (Lab AWS)
-Desenvolvimento de microserviço backend em Java com integração SQS/DLQ, PostgreSQL e Docker para processamento de alertas de fraude.
-
-## AWS Projetos Práticos (Lab AWS)
-Implementação de arquiteturas serverless e aplicações cloud native utilizando serviços AWS.
+### Formação Acadêmica
+- Pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity
+- Pós-graduação em Marketing e Mídias Digitais
+- Graduação em Administração de Empresas
 
 ---
 
-# Tecnologias  
+# Foco Atual
 
-```text
-AWS | Terraform | Docker | GitHub Actions | Java | Spring Boot | APIs REST
-Microsserviços | SQL | PostgreSQL | MongoDB | MySQL | Splunk | CI/CD
-JUnit | Mockito | Scrum | Kanban
-```
+- Cloud Computing com AWS
+- DevOps & Platform Engineering
+- Automação de Infraestrutura
+- FinOps
+- Backend Engineering
+- Observabilidade e Resiliência
 
 ---
-````
+
+# Contato
+
+📧 apduartte@gmail.com  
+🌐 https://apduartte.github.io

@@ -1,160 +1,169 @@
-# Ana Paula Duarte
 
-Cloud & Backend Engineer | AWS | DevOps | Terraform | Java
+Ana Paula Duarte
+Cloud & Backend Engineer | AWS | Java | DevOps | Terraform | Observability | FinOps
 
-📍 São Paulo, SP  
-📧 apduartte@gmail.com  
+📍 São Paulo, SP
+📧 apduartte@gmail.com
 🌐 Portfólio: https://apduartte.github.io
+💻 GitHub: https://github.com/apduartte
 
----
+Sobre Mim
 
-## Sobre Mim
+Engenheira de Software com experiência em ambientes corporativos de alta criticidade, atuando na sustentação, evolução e modernização de sistemas utilizados por milhões de clientes no setor financeiro.
 
-Profissional de tecnologia com experiência em sistemas bancários de missão crítica, desenvolvimento backend e operações em ambientes cloud.
+Minha trajetória combina mais de 20 anos de experiência em tecnologia, passando por operações, suporte especializado e engenharia de software, o que me proporciona uma visão ampla do ciclo de vida das aplicações, desde a operação em produção até o desenvolvimento e a automação de infraestrutura.
 
-Atualmente focada em Cloud Computing, DevOps, FinOps e aplicações escaláveis utilizando AWS, Java e práticas de Infraestrutura como Código (IaC).
+Atualmente concentro minha atuação em Cloud Computing, DevOps, Backend Engineering e Observabilidade, com foco na construção de soluções escaláveis, resilientes e seguras utilizando AWS, Java, Terraform e práticas modernas de Engenharia de Plataforma.
 
-Possuo sólida vivência em sustentação de ambientes de alta disponibilidade, troubleshooting de incidentes críticos, automação de processos e iniciativas voltadas à estabilidade, observabilidade e melhoria contínua.
+Tenho forte interesse em arquitetura cloud-native, automação de infraestrutura, FinOps, modernização de aplicações e melhoria contínua da confiabilidade operacional.
 
----
+Principais Competências
+☁️ Cloud & Platform Engineering
+Amazon Web Services (AWS)
+EC2
+S3
+IAM
+Lambda
+RDS
+VPC
+CloudWatch
+Arquiteturas Cloud Native
+Arquiteturas Serverless
+Well-Architected Framework
+🚀 DevOps & Automação
+Terraform
+GitHub Actions
+CI/CD
+Docker
+Infraestrutura como Código (IaC)
+Automação de Deploy
+DevSecOps
+Git
+Observabilidade
+FinOps
+💻 Backend Engineering
+Java
+Spring Boot
+APIs REST
+Microsserviços
+Integração entre sistemas
+Arquitetura Hexagonal
+Clean Architecture
+🗄️ Banco de Dados
+PostgreSQL
+MySQL
+MongoDB
+SQL Server
+SQL
+📊 Observabilidade & Confiabilidade
+Splunk
+CloudWatch
+Monitoramento de aplicações
+Análise de logs
+Troubleshooting
+Gestão de Incidentes
+Resiliência Operacional
+Disponibilidade de Serviços
+Projetos em Destaque
+🚀 SQL Server → AWS Aurora PostgreSQL com Babelfish
 
-# Stack Tecnológica
+Projeto de modernização de banco de dados simulando um cenário corporativo de migração para nuvem.
 
-## ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM, Lambda, RDS, VPC, CloudWatch)
-- Terraform
-- Docker
-- GitHub Actions
-- CI/CD
-- Infraestrutura como Código (IaC)
-- Conceitos de FinOps
+Destaques
+Estratégia de migração de SQL Server para PostgreSQL
+AWS DMS para replicação de dados
+Aurora PostgreSQL com Babelfish
+Automação de infraestrutura
+CI/CD com GitHub Actions
+SAST com Semgrep
+OIDC Federation com AWS IAM
+Observabilidade e monitoramento automatizado
+Estratégias de rollback e validação
+Tecnologias
 
-## 💻 Backend Engineering
-- Java
-- Spring Boot
-- APIs REST
-- Microsserviços
+AWS • Aurora PostgreSQL • Babelfish • DMS • Terraform • Docker • GitHub Actions • DevSecOps
 
-## 🗄️ Banco de Dados
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQL
+☁️ DigiFusion
 
-## 📊 Observabilidade & Monitoramento
-- Splunk
-- Monitoramento de aplicações
-- Análise de logs
-- Troubleshooting de incidentes
+Plataforma Cloud Native voltada para automação operacional e integração de serviços utilizando AWS e n8n.
 
-## ✅ Qualidade & Metodologias
-- JUnit
-- Mockito
-- Scrum
-- Kanban
+Destaques
+Arquitetura Cloud Native
+Automação de processos
+Infraestrutura como Código
+Observabilidade
+Escalabilidade
+Boas práticas AWS Well-Architected
+Tecnologias
 
----
+AWS • Terraform • Docker • n8n • GitHub Actions
 
-# Projetos em Destaque
+🚨 Microserviço de Alertas de Fraude
 
-## DigiFusion | AWS Lab
+Desenvolvimento de solução backend baseada em eventos para processamento assíncrono de alertas.
 
-Plataforma cloud native voltada para automação, escalabilidade e resiliência em ambientes AWS.
+Destaques
+Arquitetura orientada a eventos
+Processamento assíncrono
+Tolerância a falhas
+Filas e Dead Letter Queue (DLQ)
+Resiliência operacional
+Tecnologias
 
-### Destaques
-- Arquitetura cloud na AWS
-- Automação de infraestrutura
-- Escalabilidade e resiliência
-- Conceitos de cloud native
+Java • Spring Boot • PostgreSQL • Docker • AWS SQS • AWS DLQ
 
----
+Experiência Profissional
+Itaú Unibanco
+Software Engineer Júnior
 
-## Microserviço de Alertas de Fraude | AWS Lab
+📅 Jan/2002 – Jun/2025
 
-Desenvolvimento de microserviço backend em Java para processamento de alertas utilizando arquitetura assíncrona.
+Desenvolvimento de aplicações backend utilizando Java e Spring Boot
+Construção e manutenção de APIs REST
+Evolução de microsserviços em ambiente corporativo
+Automação de infraestrutura e processos utilizando Terraform
+Atuação em ambientes AWS
+Implementação de pipelines CI/CD
+Participação em implantações produtivas e projetos regulatórios
+Análise de desempenho e estabilidade de aplicações
+Principais Competências
 
-### Stack Utilizada
-- Java
-- Spring Boot
-- PostgreSQL
-- Docker
-- AWS SQS / DLQ
+Java • Spring Boot • AWS • Terraform • APIs REST • Microsserviços • CI/CD
 
-### Principais Conceitos
-- Microsserviços
-- Processamento assíncrono
-- Resiliência
-- Tolerância a falhas
+Itaú Unibanco
+Analista de Suporte Técnico e Operações
 
----
+📅 Jan/2002 – Jun/2025
 
-## Projetos Cloud AWS
+Sustentação de sistemas bancários de missão crítica
+Monitoramento e resposta a incidentes
+Análise de logs e troubleshooting utilizando Splunk
+Gestão de acessos e autenticação
+Garantia da disponibilidade operacional de serviços financeiros
+Principais Competências
 
-Implementação prática de aplicações cloud native e arquiteturas serverless utilizando serviços AWS e práticas DevOps.
+Splunk • Monitoramento • Incidentes • Operações • Observabilidade
 
-### Temas Trabalhados
-- Arquitetura Serverless
-- Infraestrutura como Código
-- Observabilidade
-- Pipelines CI/CD
-
----
-
-# Experiência Profissional
-
-## Itaú Unibanco
-### Software Engineer Júnior  
-📅 Jan/2022 — Jun/2025
-
-- Desenvolvimento backend utilizando Java e Spring Boot
-- Construção e manutenção de APIs REST
-- Desenvolvimento baseado em arquitetura de microsserviços
-- Atuação em ambientes AWS com automação utilizando Terraform
-- Implementação e manutenção de pipelines CI/CD
-- Participação em projetos regulatórios e implantações em produção
-- Suporte à estabilidade e performance de aplicações bancárias
-
----
-
-## Itaú Unibanco
-### Analista de Suporte Técnico / Operacional  
-📅 Jan/2002 — Jan/2022
-
-- Sustentação de sistemas bancários de missão crítica
-- Monitoramento e análise de incidentes utilizando Splunk
-- Suporte a Internet Banking e serviços financeiros
-- Gestão de autenticação e acessos seguros
-- Atuação em estabilidade operacional e troubleshooting
-
----
-
-## Certificações & Formação
-
-### Certificações
-- Microsoft Azure Fundamentals (AZ-900)
-- FinOps Descomplicado
-- Integração Contínua
-- AWS Certified Cloud Practitioner *(em andamento)*
-
-### Formação Acadêmica
-- Pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity
-- Pós-graduação em Marketing e Mídias Digitais
-- Graduação em Administração de Empresas
-
----
-
-# Foco Atual
-
-- Cloud Computing com AWS
-- DevOps & Platform Engineering
-- Automação de Infraestrutura
-- FinOps
-- Backend Engineering
-- Observabilidade e Resiliência
-
----
-
-# Contato
-
-📧 apduartte@gmail.com  
-🌐 https://apduartte.github.io
+Certificações
+Microsoft Azure Fundamentals (AZ-900)
+FinOps Descomplicado
+Integração Contínua
+AWS Certified Cloud Practitioner (Em andamento)
+Formação Acadêmica
+Pós-graduação
+Arquitetura de Software, Ciência de Dados e Cybersecurity
+Pós-graduação
+Marketing e Mídias Digitais
+Graduação
+Administração de Empresas
+Áreas de Interesse
+Cloud Engineering
+AWS
+Backend Engineering
+DevOps
+Platform Engineering
+Observabilidade
+FinOps
+Arquitetura de Software
+Modernização de Aplicações
+Engenharia de Confiabilidade (SRE)

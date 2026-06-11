@@ -80,16 +80,15 @@ Backend orientado a eventos para processamento assíncrono de alertas.
 Último cargo: Software Engineer Júnior
 Experiência anterior: Analista de Suporte Técnico e Operações
 
-- Desenvolvimento de aplicações backend (Java, Spring Boot)  
-- Construção e manutenção de APIs REST  
-- Evolução de microsserviços  
-- Automação de infraestrutura com Terraform  
-- Implementação de pipelines CI/CD  
-- Atuação em ambientes AWS  
-- Análise de desempenho e estabilidade  
+- Atuação em sistemas bancários críticos, unindo experiência em sustentação, operações, desenvolvimento backend e automação.
+- Desenvolvimento e manutenção de aplicações backend com Java, Spring Boot e APIs REST.
+- Apoio à evolução de microsserviços, integração entre sistemas e modernização de aplicações.
+- Automação de infraestrutura e apoio a práticas DevOps com Terraform, Git, GitHub Actions e pipelines CI/CD.
+- Atuação em ambientes AWS, com foco em cloud, disponibilidade, estabilidade e eficiência operacional.
+- Monitoramento, troubleshooting e análise de desempenho em ambientes produtivos de alta criticidade.
+- Participação em rotinas de observabilidade, gestão de incidentes, documentação técnica e melhoria contínua.
 
-**Competências:** Java • Spring Boot • AWS • Terraform • APIs REST • Microsserviços • CI/CD  
-
+**Competências:** Java • Spring Boot • AWS • Terraform • APIs REST • Microsserviços • CI/CD • GitHub Actions • Observabilidade • Troubleshooting • Sistemas Críticos
 ---
 ## 🎓 Formação Acadêmica
 - Pós-graduação em **Arquitetura de Software, Ciência de Dados e Cybersecurity**  

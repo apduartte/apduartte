@@ -1,6 +1,6 @@
 # Ana Paula Duarte  
-**Cloud & Backend Engineer
-AWS • Java • Terraform • DevOps • Observability**
+**Cloud & Backend Engineer**
+AWS • Java • Terraform • DevOps • Observability
 
 📍 São Paulo, SP  
 📧 apduartte@gmail.com  
@@ -10,11 +10,20 @@ AWS • Java • Terraform • DevOps • Observability**
 ---
 
 ## 👩‍💻 Sobre Mim
-Engenheira de Software com mais de 20 anos de experiência em tecnologia, atuando em ambientes corporativos de alta criticidade no setor financeiro.  
-Minha trajetória abrange operações, suporte especializado e engenharia de software, proporcionando uma visão completa do ciclo de vida das aplicações — da operação em produção ao desenvolvimento e automação de infraestrutura.  
+Engenheira de Software com mais de 20 anos de experiência em tecnologia no setor financeiro, atuando em ambientes críticos de produção, suporte especializado, automação e desenvolvimento backend.
 
-Atualmente foco em **Cloud Computing, DevOps, Backend Engineering e Observabilidade**, construindo soluções escaláveis, resilientes e seguras com **AWS, Java, Terraform** e práticas modernas de Engenharia de Plataforma.  
-Tenho forte interesse em **arquitetura cloud-native, automação de infraestrutura, FinOps, modernização de aplicações e confiabilidade operacional (SRE).**
+Atualmente foco em Cloud Computing, Backend Engineering, DevOps e Observabilidade, com projetos práticos em AWS, Java, Terraform, Docker, GitHub Actions, PostgreSQL e arquitetura cloud-native.
+
+Meu diferencial é unir visão operacional de sistemas críticos com engenharia moderna, documentação técnica, automação de infraestrutura e confiabilidade operacional.
+
+## 🎯 O que eu entrego
+
+- Desenvolvimento backend com Java, Spring Boot e APIs REST.
+- Automação de infraestrutura com Terraform e práticas de IaC.
+- Estruturação de pipelines CI/CD com GitHub Actions.
+- Observabilidade, troubleshooting e análise de estabilidade em ambientes críticos.
+- Modernização de aplicações e bancos de dados para ambientes cloud.
+- Documentação técnica executiva para projetos, evidências e portfólio.
 
 ---
 

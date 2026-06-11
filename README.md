@@ -1,5 +1,6 @@
 # Ana Paula Duarte  
-**Cloud & Backend Engineer | AWS | Java | DevOps | Terraform | Observability | FinOps**
+**Cloud & Backend Engineer
+AWS • Java • Terraform • DevOps • Observability**
 
 📍 São Paulo, SP  
 📧 apduartte@gmail.com  
@@ -73,8 +74,12 @@ Backend orientado a eventos para processamento assíncrono de alertas.
 
 ## 💼 Experiência Profissional
 
-### Itaú Unibanco — *Software Engineer Júnior*  
+### Itaú Unibanco — *Tecnologia e Engenharia de Software*  
 📅 Jan/2002 – Jun/2025  
+
+Último cargo: Software Engineer Júnior
+Experiência anterior: Analista de Suporte Técnico e Operações
+
 - Desenvolvimento de aplicações backend (Java, Spring Boot)  
 - Construção e manutenção de APIs REST  
 - Evolução de microsserviços  
@@ -86,19 +91,6 @@ Backend orientado a eventos para processamento assíncrono de alertas.
 **Competências:** Java • Spring Boot • AWS • Terraform • APIs REST • Microsserviços • CI/CD  
 
 ---
-
-### Itaú Unibanco — *Analista de Suporte Técnico e Operações*  
-📅 Jan/2002 – Jun/2025  
-- Sustentação de sistemas bancários críticos  
-- Monitoramento e resposta a incidentes  
-- Troubleshooting com Splunk  
-- Gestão de acessos e autenticação  
-- Garantia de disponibilidade operacional  
-
-**Competências:** Splunk • Monitoramento • Incidentes • Operações • Observabilidade  
-
----
-
 ## 🎓 Formação Acadêmica
 - Pós-graduação em **Arquitetura de Software, Ciência de Dados e Cybersecurity**  
 - Pós-graduação em **Marketing e Mídias Digitais**  

@@ -1,6 +1,8 @@
 # Ana Paula Duarte  
-## Cloud & Backend Engineer
-  **AWS • Java • Terraform • DevOps • Observabilidade**
+**Cloud & Backend Engineer**  
+AWS • Java • Terraform • DevOps • Observabilidade  
+
+**Da operação crítica à engenharia cloud-native.**
 
 📍 São Paulo, SP  
 📧 apduartte@gmail.com  

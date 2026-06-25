@@ -1,120 +1,123 @@
-# Ana Paula Duarte  
-**Cloud & Backend Engineer**  
-AWS • Java • Terraform • DevOps • Observabilidade  
+Ana Paula Duarte
 
-**Da operação crítica à engenharia cloud-native.**
+Cloud & Backend Engineer | AWS • Java • Terraform • DevOps • Observabilidade
 
-📍 São Paulo, SP  
-📧 apduartte@gmail.com  
-🌐 [Portfólio](https://apduartte.github.io)  
-💻 [GitHub](https://github.com/apduartte)
+📍 São Paulo, SP📧 apduartte@gmail.com🌐 Portfólio💻 GitHub
 
----
+👩‍💻 Sobre Mim
 
-## 👩‍💻 Sobre Mim
-Engenheira de Software com mais de 20 anos de experiência em tecnologia no setor financeiro, atuando em ambientes críticos de produção, suporte especializado, automação e desenvolvimento backend.
+Engenheira de Software com mais de 20 anos de experiência em ambientes críticos do setor financeiro. Especialista em Cloud Computing, Backend Engineering, DevOps e Observabilidade. Meu diferencial é unir visão operacional de sistemas críticos com engenharia moderna, automação de infraestrutura e confiabilidade operacional.
 
-Atualmente foco em Cloud Computing, Backend Engineering, DevOps e Observabilidade, com projetos práticos em AWS, Java, Terraform, Docker, GitHub Actions, PostgreSQL e arquitetura cloud-native.
+🚀 Principais Competências
 
-Meu diferencial é unir visão operacional de sistemas críticos com engenharia moderna, documentação técnica, automação de infraestrutura e confiabilidade operacional.
+    
 
-## 🎯 O que eu entrego
+Cloud & Platform Engineering: AWS (EC2, S3, IAM, Lambda, RDS, VPC, CloudWatch), Arquiteturas Cloud Native, Serverless, Well-Architected Framework.
 
-- Desenvolvimento backend com Java, Spring Boot e APIs REST.
-- Automação de infraestrutura com Terraform e práticas de IaC.
-- Estruturação de pipelines CI/CD com GitHub Actions.
-- Observabilidade, troubleshooting e análise de estabilidade em ambientes críticos.
-- Modernização de aplicações e bancos de dados para ambientes cloud.
-- Documentação técnica executiva para projetos, evidências e portfólio.
+DevOps & Automação: Terraform, GitHub Actions, CI/CD, Docker, IaC, DevSecOps, FinOps.
 
----
+Backend Engineering: Java, Spring Boot, APIs REST, Microsserviços, Arquitetura Hexagonal, Clean Architecture.
 
-## 🚀 Principais Competências
-- **Cloud & Platform Engineering**  
-  AWS (EC2, S3, IAM, Lambda, RDS, VPC, CloudWatch) • Arquiteturas Cloud Native • Serverless • Well-Architected Framework  
+Banco de Dados: PostgreSQL, MySQL, MongoDB, SQL Server.
 
-- **DevOps & Automação**  
-  Terraform • GitHub Actions • CI/CD • Docker • IaC • DevSecOps • Automação de Deploy • Git • Observabilidade • FinOps  
+Observabilidade & Confiabilidade: Splunk, CloudWatch, Monitoramento, Logs, Troubleshooting, Alta Disponibilidade.
 
-- **Backend Engineering**  
-  Java • Spring Boot • APIs REST • Microsserviços • Integração entre sistemas • Arquitetura Hexagonal • Clean Architecture  
+📂 Projetos em Destaque
 
-- **Banco de Dados**  
-  PostgreSQL • MySQL • MongoDB • SQL Server • SQL  
+🚀 SQL Server → AWS Aurora PostgreSQL com Babelfish
 
-- **Observabilidade & Confiabilidade**  
-  Splunk • CloudWatch • Monitoramento • Logs • Troubleshooting • Gestão de Incidentes • Resiliência Operacional • Alta Disponibilidade  
+Migração corporativa de SQL Server para PostgreSQL.
 
----
+Replicação com AWS DMS.
 
-## 📂 Projetos em Destaque
+Aurora PostgreSQL com Babelfish.
 
-### 🚀 SQL Server → AWS Aurora PostgreSQL com Babelfish
-- Migração corporativa de SQL Server para PostgreSQL  
-- Replicação com AWS DMS  
-- Aurora PostgreSQL com Babelfish  
-- Automação de infraestrutura com Terraform  
-- CI/CD com GitHub Actions  
-- Observabilidade e rollback automatizado  
+Automação de infraestrutura com Terraform.
 
-**Tecnologias:** AWS • Aurora PostgreSQL • Babelfish • DMS • Terraform • Docker • GitHub Actions • DevSecOps  
+CI/CD com GitHub Actions.
 
----
+Observabilidade e rollback automatizado.
 
-### ☁️ DigiFusion
-Plataforma Cloud Native para automação operacional e integração de serviços.  
-- Arquitetura Cloud Native  
-- Automação de processos  
-- Infraestrutura como Código  
-- Observabilidade e escalabilidade  
+➡️ RepositórioStack: AWS • Aurora PostgreSQL • Babelfish • DMS • Terraform • Docker • GitHub Actions • DevSecOps
 
-**Tecnologias:** AWS • Terraform • Docker • n8n • GitHub Actions  
+☁️ DigiFusion
 
----
+Plataforma Cloud Native para automação operacional e integração de serviços.
 
-### 🚨 Microserviço de Alertas de Fraude
-Backend orientado a eventos para processamento assíncrono de alertas.  
-- Arquitetura orientada a eventos  
-- Processamento assíncrono  
-- Tolerância a falhas com DLQ  
-- Resiliência operacional  
+Arquitetura Cloud Native.
 
-**Tecnologias:** Java • Spring Boot • PostgreSQL • Docker • AWS SQS • AWS DLQ  
+Automação de processos.
 
----
+Infraestrutura como Código.
 
-## 💼 Experiência Profissional
+Observabilidade e escalabilidade.
 
-### Itaú Unibanco — *Tecnologia e Engenharia de Software*  
-📅 Jan/2002 – Jun/2025  
+➡️ RepositórioStack: AWS • Terraform • Docker • n8n • GitHub Actions
 
-Último cargo: Software Engineer Júnior
-Experiência anterior: Analista de Suporte Técnico e Operações
+🚨 Microserviço de Alertas de Fraude
 
-- Atuação em sistemas bancários críticos, unindo experiência em sustentação, operações, desenvolvimento backend e automação.
-- Desenvolvimento e manutenção de aplicações backend com Java, Spring Boot e APIs REST.
-- Apoio à evolução de microsserviços, integração entre sistemas e modernização de aplicações.
-- Automação de infraestrutura e apoio a práticas DevOps com Terraform, Git, GitHub Actions e pipelines CI/CD.
-- Atuação em ambientes AWS, com foco em cloud, disponibilidade, estabilidade e eficiência operacional.
-- Monitoramento, troubleshooting e análise de desempenho em ambientes produtivos de alta criticidade.
-- Participação em rotinas de observabilidade, gestão de incidentes, documentação técnica e melhoria contínua.
+Backend orientado a eventos para processamento assíncrono de alertas.
 
-**Competências:** Java • Spring Boot • AWS • Terraform • APIs REST • Microsserviços • CI/CD • GitHub Actions • Observabilidade • Troubleshooting • Sistemas Críticos
----
-## 🎓 Formação Acadêmica
-- Pós-graduação em **Arquitetura de Software, Ciência de Dados e Cybersecurity**  
-- Pós-graduação em **Marketing e Mídias Digitais**  
-- Graduação em **Administração de Empresas**
+Arquitetura orientada a eventos.
 
----
+Processamento assíncrono.
 
-## 📜 Certificações
-- Microsoft Azure Fundamentals (AZ-900)  
-- FinOps Descomplicado  
-- Integração Contínua  
-- AWS Certified Cloud Practitioner *(em andamento)*  
+Tolerância a falhas com DLQ.
 
----
+Resiliência operacional.
 
-## 🎯 Áreas de Interesse
+➡️ RepositórioStack: Java • Spring Boot • PostgreSQL • Docker • AWS SQS • AWS DLQ
+
+💼 Experiência Profissional
+
+Itaú Unibanco — Tecnologia e Engenharia de Software📅 Jan/2002 – Jun/2025Último cargo: Cloud & Backend Engineer
+
+Atuação em sistemas bancários críticos, unindo sustentação, operações, backend e automação.
+
+Desenvolvimento e manutenção de aplicações backend com Java, Spring Boot e APIs REST.
+
+Evolução de microsserviços e modernização de aplicações.
+
+Automação de infraestrutura e apoio a práticas DevOps com Terraform, GitHub Actions e CI/CD.
+
+Atuação em ambientes AWS com foco em disponibilidade e eficiência operacional.
+
+Monitoramento, troubleshooting e análise de desempenho em ambientes produtivos.
+
+🎓 Formação Acadêmica
+
+Pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity
+
+Pós-graduação em Marketing e Mídias Digitais
+
+Graduação em Administração de Empresas
+
+📜 Certificações
+
+Microsoft Azure Fundamentals (AZ-900)
+
+FinOps Descomplicado
+
+Integração Contínua
+
+AWS Certified Cloud Practitioner (em preparação)
+
+🎯 Áreas de Interesse
+
 Cloud Engineering • AWS • Backend Engineering • DevOps • Platform Engineering • Observabilidade • FinOps • Arquitetura de Software • Modernização de Aplicações • Engenharia de Confiabilidade (SRE)
+
+📊 Métricas de Impacto
+
+🚀 Redução de 40% no tempo de deploy com pipelines CI/CD.
+
+💰 Economia de 25% em custos de infraestrutura com práticas de FinOps.
+
+📈 Aumento de 30% na disponibilidade de sistemas críticos com observabilidade avançada.
+
+🌐 Contribuições Open Source
+
+Projetos pessoais e contribuições
+
+📫 Contato
+
+📧 apduartte@gmail.com🌐 Portfólio💻 GitHub

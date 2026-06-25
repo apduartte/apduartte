@@ -1,0 +1,90 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fonte e cores principais */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+  padding: 20px;
+}
+
+/* Cabeçalho */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2.2em;
+  color: #2c3e50;
+}
+
+header p {
+  margin-top: 10px;
+  font-size: 1em;
+}
+
+header a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+/* Seções */
+section {
+  margin-bottom: 25px;
+  padding: 15px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  font-size: 1.4em;
+  color: #007acc;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 5px;
+}
+
+/* Experiência e artigos */
+article {
+  margin-bottom: 15px;
+}
+
+article h3 {
+  font-size: 1.2em;
+  color: #2c3e50;
+}
+
+article p {
+  font-style: italic;
+  margin-bottom: 8px;
+}
+
+/* Listas */
+ul {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #777;
+}
